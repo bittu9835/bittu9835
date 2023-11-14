@@ -42,7 +42,7 @@
 
 <h2>Connect with me at:</h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%;"><br>
 <a href="https://www.linkedin.com/in/bittu9835/" >
- <img align="center" src="https://www.linkedin.com/in/bittu9835/" alt="bittu9835" height="30" width="40" style="max-width: 100%; "></a> &nbsp; 
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bittu9835" height="30" width="40" style="max-width: 100%; "></a>
 <a href="https://www.instagram.com/the_bittu9835/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anthropic_o3" height="30" width="40" style="max-width: 100%;"/></a>
 <a href="https://www.youtube.com/channel/UCdT1kxD6WicYhQ8rFTt8jFA">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anthropic_o3" height="30" width="40" style="max-width: 100%;"/></a>
