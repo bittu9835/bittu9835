@@ -22,7 +22,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Vs Code](https://img.shields.io/badge/VS%20Code-%23323330.svg?style=for-the-badge&logo=visualstudio&logoColor=%23007ACC)
 
-- 🔭 I’m currently working on Suvaidyam 
+- 🔭 I’m currently working at Suvaidyam 
 - 🌱 I’m currently learning Full Stack  MEAN Developer 
 - 👯 I’m looking to collaborate on Learning based Projects 
 - 💬 Ask me about Full Stack Developer 
