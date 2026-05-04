@@ -23,9 +23,9 @@
 ![Vs Code](https://img.shields.io/badge/VS%20Code-%23323330.svg?style=for-the-badge&logo=visualstudio&logoColor=%23007ACC)
 
 - 🔭 I’m currently working at Suvaidyam 
-- 🌱 I’m currently learning Full Stack  MEAN Developer 
-- 👯 I’m looking to collaborate on Learning based Projects 
-- 💬 Ask me about Full Stack Developer 
+- 🌱 I’m currently working as a Frappe developer
+- 👯 I’m looking to collaborate on learning-based projects 
+- 💬 Ask me about Full Stack Development
 - 📫 How to reach me: Email:- bk2671111@gmail.com 
 - ⚡ Fun fact: It’s all 0’s and 1’s 
 
